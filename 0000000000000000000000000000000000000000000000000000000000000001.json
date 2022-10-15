@@ -2,7 +2,7 @@
 	"name": "PoC Flobers",
 	"description": "Esto es una PoC entre Tok&Go y Flobers",
 	"decimals": 2,
-	"image": "https://flobers.com/wp-content/uploads/2022/01/logo-flobers-xs.png",
+	"image": "https://raw.githubusercontent.com/alegria20/publicrepo/main/proyectos-fondo.jpg",
 	"properties": {
         "Activo subyacente": "Deuda",
 		"MaxCap": 240,
