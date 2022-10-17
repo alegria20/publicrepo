@@ -4,7 +4,7 @@
 	"decimals": 2,
 	"image": "https://raw.githubusercontent.com/alegria20/publicrepo/main/proyectos-fondo.jpg",
 	"properties": {
-        "Activo subyacente": "Deuda",
+		"Activo subyacente": "Deuda",
 		"MaxCap": 240,
 		"MinCap": 1,
 		"Initial Value": "1000 EUR",
